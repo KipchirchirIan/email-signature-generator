@@ -24,8 +24,7 @@
                     style="line-height: 1.4;font-family:'Arial Black', Gadget, sans-serif;font-size:64%;color: #000001;">
                     <tr>
                         <td style="padding-bottom: 8px;"> <span
-                                style="font: 600 1.3em 'Arial Black', Gadget, sans-serif;color:#417505;">Ian
-                                Kipchirchir</span> </td>
+                                style="font: 600 1.3em 'Arial Black', Gadget, sans-serif;color:#417505;">John Doe</span> </td>
                     </tr>
                     <tr>
                         <td style="color:#000001;padding-bottom: 8px;">
@@ -37,7 +36,7 @@
                         <td>
                             <div style="font-family:'Arial Black', Gadget, sans-serif;"> <span
                                     style="font-weight: 600;color:#417505;">M:&nbsp;</span> <a style="color: #000001;"
-                                    href="tel:+254723945591">+254723945591</a> </div>
+                                    href="tel:+254723945591">+254720123456</a> </div>
                         </td>
                     </tr>
                     <tr>
@@ -45,14 +44,14 @@
                             <div style="font-family:'Arial Black', Gadget, sans-serif;"> <span
                                     style="font-weight: 600;font-size:1em;color:#417505;">E:&nbsp;</span> <a
                                     href="mailto:kipchirchiriank@gmail.com" style="color: #000001;"
-                                    target="_blank">kipchirchiriank@gmail.com</a> </div>
+                                    target="_blank">johndoe@gmail.com</a> </div>
                         </td>
                     </tr>
                     <tr>
                         <td style="padding: 8px 0 0 0;">
                             <div style="font-family:'Arial Black', Gadget, sans-serif;"> <a
                                     href="https://www.iankipchirchir.com" style="color:#417505;"
-                                    target="_blank">www.iankipchirchir.com</a> </div>
+                                    target="_blank">www.johndoe.com</a> </div>
                         </td>
                     </tr>
                     <tr>
