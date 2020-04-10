@@ -68,6 +68,12 @@
                 <!-- Begin: Logo/Banner -->
                 <div id="logo" class="container tab-pane fade"><br>
                     <h3>Logo/Banner</h3>
+                    <section>
+                        <div class="form-group">
+                            <label for="logo">Logo:</label>
+                            <input type="file" class="form-control-file border" id="logo">
+                        </div>
+                    </section>
                 </div>
                 <!-- End: Logo/Banner -->
                 <!-- Begin: Social Media -->
